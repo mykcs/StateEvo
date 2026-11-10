@@ -1,0 +1,7 @@
+# mykcs/StateEvo | Agent 入口
+
+继承 [共享 Harness](https://github.com/mykcs/.agents/blob/main/AGENTS.md) 与本仓库当前用户要求；不可从此入口自行扩大权限、支出、发布或科研声明。
+
+## Current | 多 Agent 接手
+
+先读 [Current](docs/agents/current/README.md)，再核对实时 Issues/PR/main，避免两个 Agent 同时改同一文件。项目代码、README/真实证据仍是项目事实 owner。
